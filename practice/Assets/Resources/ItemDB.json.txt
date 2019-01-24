@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Fence",
+      "sheetIndex": "397",
+      "spriteSheet": "m3tazmily",
+      "type": "Deco",
+      "properties": {
+        "hunger": "0"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Square Fruit",
+      "sheetIndex": "97",
+      "spriteSheet": "chao",
+      "type": "Food",
+      "properties": {
+        "hunger": "5"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Rock",
+      "sheetIndex": "7",
+      "spriteSheet": "m3tazmily",
+      "type": "Deco",
+      "properties": {
+        "hunger": "0"
+      }
+    }
+  ]
+}
